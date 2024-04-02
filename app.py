@@ -281,10 +281,6 @@ def logout():
 
 
 
-
-
-
-
 # get page user details
 @app.route('/user_<username>', methods=['GET'])
 def get_user_details(username):

@@ -64,4 +64,3 @@ INSERT INTO bookings (start_date, end_date, user_id, property_id) VALUES ('2024-
 
 
 
-
